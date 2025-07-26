@@ -1,2 +1,2 @@
 # PEMFCs-cold-start
-Supplementary materials for the paper on PEMFC cold-start optimization. Includes ML model codes (XGBoost, ANN), NSGA-II multi-objective optimization, training datasets, and pre-trained models, supporting reproducibility of the study.
+This repository contains the ML model training codes and corresponding datasets mentioned in the paper "Machine Learning-Driven Cold-Start Optimization and Sensitivity Analysis for Proton Exchange Membrane Fuel Cells with Cathode Catalytic Hydrogen-oxygen Reaction", which are used to support the reproduction of the research on the cold-start performance prediction of proton exchange membrane fuel cells (PEMFC).
